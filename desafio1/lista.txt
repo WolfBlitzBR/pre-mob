@@ -1,3 +1,5 @@
 arroz
 feijão 
 macarrão
+café
+açucar
